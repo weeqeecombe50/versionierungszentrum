@@ -1,6 +1,6 @@
 {
   "name": "versionierungszentrum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eine komplette Lösung zur Verwaltung von Versionierungsprozessen für Softwareprojekte.",
   "main": "index.js",
   "scripts": {
